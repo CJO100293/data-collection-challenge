@@ -15,3 +15,4 @@ This new assignment consists of two technical products. You will submit the foll
 - The basis for the code used in the # Loop through the text elements, Extract the title and preview text from the elements, Store each title and preview pair in a dictionary, Add the dictionary to the list" section was worked out in collaberation with Tyler White along with the assistance of AskBCS.
 - The basis for the code found in my "Saving scraped data to json file" section was found from https://medium.com/@wilirahmatm/extract-data-from-web-scraping-to-csv-and-json-files-using-python-705700cac050.
 ### **Part 2:**
+- he starter code used in the "Install the needed dependencies", "Import additional dependencies required for code" and the "Changing "browser = Browser('chrome')" to the following to run it better." sections of "part_2_mars_weather.ipynb" was found from the same source as the same section of Part 1.
