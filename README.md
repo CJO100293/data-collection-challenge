@@ -11,6 +11,6 @@ This new assignment consists of two technical products. You will submit the foll
 
 ## **Sources:**
 ### **Part 1:**
-- The starter code used in the "Install the needed dependencies", "Import additional dependencies required for code" and the "Changing "browser = Browser('chrome')" to the following to run it better." sections of "part_1_mars_news.ipynb" was worked out with the help of AskBCS.
-
+- The starter code used in the "Install the needed dependencies", "Import additional dependencies required for code" and the "Changing "browser = Browser('chrome')" to the following to run it better." sections of "part_1_mars_news.ipynb" was worked out with the assistance of AskBCS.
+- the basis for the code used in the # Loop through the text elements, Extract the title and preview text from the elements, Store each title and preview pair in a dictionary, Add the dictionary to the list" section was worked out in collaberation with Tyler White along with the assistance of AskBCS
 ### **Part 2:**
